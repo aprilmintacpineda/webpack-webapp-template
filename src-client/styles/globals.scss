@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+#app {
+  padding-top: 4em;
+}
+a {
+  text-decoration: none;
+}
+button, a {
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+}
